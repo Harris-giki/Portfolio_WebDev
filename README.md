@@ -56,5 +56,5 @@
         <li>Open the <code>index.html</code> file in your browser to view the website.</li>
     </ol>
     <h2 id="acknowledgments">Acknowledgments</h2>
-    <p>I would like to thank everyone who supported me in completing this project especially Colt Steele from Udemy whose Web developement course really helped to sharpen my knowledge and skill, as well as the online resources especially 'How to Become a Developer" Youtube Channel and communities that provided valuable insights and inspiration.</p>
+    <p>I would like to thank everyone who supported me in completing this project especially Colt Steele from Udemy whose web developement course really helped to sharpen my knowledge and skill, as well as the online resources especially 'How to Become a Developer" Youtube Channel and communities that provided valuable insights and inspiration.</p>
 </body>
