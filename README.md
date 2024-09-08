@@ -58,3 +58,8 @@
     <h2 id="acknowledgments">Acknowledgments</h2>
     <p>I would like to thank everyone who supported me in completing this project especially Colt Steele from Udemy whose web developement course really helped to sharpen my knowledge and skill, as well as the online resources especially 'How to Become a Developer" Youtube Channel and communities that provided valuable insights and inspiration.</p>
 </body>
+<h2 id="project-Link">Project Link</h2>
+<p>
+    This project has been deployed on web using Netlify. Click the following link to open:
+    https://harmonious-basbousa-1f1cfc.netlify.app/
+</p>
