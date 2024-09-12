@@ -61,5 +61,5 @@
 <h2 id="project-Link">Project Link</h2>
 <p>
     This project has been deployed on web using Netlify. Click the following link to open:
-    https://harmonious-basbousa-1f1cfc.netlify.app/
+   https://harris-personal-portfolio.netlify.app/
 </p>
